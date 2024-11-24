@@ -1,0 +1,29 @@
+1. Specify the Git commands you would use to carry out the following tasks, including details of the steps which will be used at each stage.
+
+a. You need to initialize a Git Repo and configure author information locally to the repository. 
+( 2 marks )
+
+b. You are now working on the content of a file named "final report.txt". Save the changes to the repo with message "This is my commit <Your IT Number>".
+( 2 marks )
+
+c. You need to undo the last change you did but need to be able to track it using the git history. (Last commit ID: 80LCW094NBUE40) 
+( 2 marks )
+
+d. You are currently working on the "dev" branch, Create a new branch name "feature 8990". This new branch should have the content of dev branch.
+( 2 marks )
+
+e. Below are a set of commits in your Git Repo:
+
+i. Commit5-J4M5P
+ii. Commit4-KLDO9
+iii. Commit3 -EKM34
+iv. Commit2 -SH3JK3
+v. Commit I - HIEKWI
+
+You need to remove the last 2 commits in your git history. But you need to make sure the changes you made in each commit is available in your working directory.
+( 4 marks )
+
+2. You are working on the Git Project/Repo named "Go Web App?" to introduce a new OTP feature. This feature will be deloped using the branch "feature_otp_service". You are now finished working on it and need to add the new feature to the new release. Your release branch is named "Production". What is the industry accepted best practice method to do this? Briefly explain why you should follow the mentioned method,giving the advantages of the method. ( 4 marks )
+
+3.	Explain why you may need to fork a Git repository? Provide 3 use cases.
+ ( 4 marks )
